@@ -29,7 +29,7 @@ html, body {
   width: 80%;
   height: 40%;
   margin: 0 auto;
-  border: 1px solid black;
+  border: 20px solid black;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
   border-bottom-left-radius: 5px;
@@ -55,7 +55,7 @@ html, body {
   position: static;
   width: 10px;
   height: 10px;
-  background-color: red;
+  background-color: green;
   margin-left: 5px;
   margin-top: 2px;
   border-radius: 10px;
@@ -105,7 +105,7 @@ html, body {
 }
 
 #d_pad > div {
-  background-color: #525E59;
+  background-color: #cccccc;
 }
 
 #d_pad_up {
